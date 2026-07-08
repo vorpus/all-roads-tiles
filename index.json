@@ -2,19 +2,6 @@
   "regions": [
     {
       "bbox": {
-        "maxLat": 35.1915926,
-        "maxLon": -106.6197232,
-        "minLat": 35.1355481,
-        "minLon": -106.680744
-      },
-      "id": "albuquerque",
-      "manifestVersion": 4,
-      "name": "Albuquerque",
-      "region": "New Mexico, USA",
-      "tileZoom": 14
-    },
-    {
-      "bbox": {
         "maxLat": 33.8821769,
         "maxLon": -117.6694503,
         "minLat": 33.7888571,
