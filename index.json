@@ -2,6 +2,84 @@
   "regions": [
     {
       "bbox": {
+        "maxLat": 35.1915926,
+        "maxLon": -106.6197232,
+        "minLat": 35.1355481,
+        "minLon": -106.680744
+      },
+      "id": "albuquerque",
+      "manifestVersion": 4,
+      "name": "Albuquerque",
+      "region": "New Mexico, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 33.8821769,
+        "maxLon": -117.6694503,
+        "minLat": 33.7888571,
+        "minLon": -118.0177695
+      },
+      "id": "anaheim",
+      "manifestVersion": 4,
+      "name": "Anaheim",
+      "region": "California, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 61.295754,
+        "maxLon": -149.4859416,
+        "minLat": 61.0394879,
+        "minLon": -149.9644434
+      },
+      "id": "anchorage",
+      "manifestVersion": 4,
+      "name": "Anchorage",
+      "region": "Alaska, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 32.8171124,
+        "maxLon": -97.035191,
+        "minLat": 32.5897618,
+        "minLon": -97.2326947
+      },
+      "id": "arlington-tx",
+      "manifestVersion": 4,
+      "name": "Arlington",
+      "region": "Texas, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 33.8892479,
+        "maxLon": -84.287503,
+        "minLat": 33.6434674,
+        "minLon": -84.551302
+      },
+      "id": "atlanta",
+      "manifestVersion": 4,
+      "name": "Atlanta",
+      "region": "Georgia, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 39.8268287,
+        "maxLon": -104.446505,
+        "minLat": 39.5488349,
+        "minLon": -104.885532
+      },
+      "id": "aurora-co",
+      "manifestVersion": 4,
+      "name": "Aurora",
+      "region": "Colorado, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
         "maxLat": 30.5156482,
         "maxLon": -97.5695295,
         "minLat": 30.0972477,
@@ -11,6 +89,19 @@
       "manifestVersion": 4,
       "name": "Austin",
       "region": "Texas, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 35.5314565,
+        "maxLon": -118.6474208,
+        "minLat": 35.093422,
+        "minLon": -119.2628865
+      },
+      "id": "bakersfield",
+      "manifestVersion": 4,
+      "name": "Bakersfield",
+      "region": "California, USA",
       "tileZoom": 14
     },
     {
@@ -67,6 +158,45 @@
     },
     {
       "bbox": {
+        "maxLat": 39.229469,
+        "maxLon": -84.361238,
+        "minLat": 39.0549847,
+        "minLon": -84.7081214
+      },
+      "id": "cincinnati",
+      "manifestVersion": 4,
+      "name": "Cincinnati",
+      "region": "Ohio, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 41.6006978,
+        "maxLon": -81.5211503,
+        "minLat": 41.3906101,
+        "minLon": -81.8782939
+      },
+      "id": "cleveland",
+      "manifestVersion": 4,
+      "name": "Cleveland",
+      "region": "Ohio, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 39.0352964,
+        "maxLon": -104.6077345,
+        "minLat": 38.716858,
+        "minLon": -104.9140841
+      },
+      "id": "colorado-springs",
+      "manifestVersion": 4,
+      "name": "Colorado Springs",
+      "region": "Colorado, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
         "maxLat": 40.157221,
         "maxLon": -82.7712584,
         "minLat": 39.8111571,
@@ -76,6 +206,19 @@
       "manifestVersion": 4,
       "name": "Columbus",
       "region": "Ohio, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 27.8950743,
+        "maxLon": -97.1206668,
+        "minLat": 27.562817,
+        "minLon": -97.7627759
+      },
+      "id": "corpus-christi",
+      "manifestVersion": 4,
+      "name": "Corpus Christi",
+      "region": "Texas, USA",
       "tileZoom": 14
     },
     {
@@ -119,6 +262,19 @@
     },
     {
       "bbox": {
+        "maxLat": 36.1356211,
+        "maxLon": -78.7560356,
+        "minLat": 35.8669679,
+        "minLon": -79.0070128
+      },
+      "id": "durham",
+      "manifestVersion": 4,
+      "name": "Durham",
+      "region": "North Carolina, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
         "maxLat": 32.0092616,
         "maxLon": -106.1971514,
         "minLat": 31.6391159,
@@ -141,6 +297,58 @@
       "manifestVersion": 4,
       "name": "Fort Worth",
       "region": "Texas, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 36.9111484,
+        "maxLon": -119.6459761,
+        "minLat": 36.6629193,
+        "minLon": -119.934404
+      },
+      "id": "fresno",
+      "manifestVersion": 4,
+      "name": "Fresno",
+      "region": "California, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 36.206699,
+        "maxLon": -79.6261023,
+        "minLat": 35.9796382,
+        "minLon": -80.014887
+      },
+      "id": "greensboro",
+      "manifestVersion": 4,
+      "name": "Greensboro",
+      "region": "North Carolina, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 36.1301164,
+        "maxLon": -114.9031017,
+        "minLat": 35.9072409,
+        "minLon": -115.1865064
+      },
+      "id": "henderson",
+      "manifestVersion": 4,
+      "name": "Henderson",
+      "region": "Nevada, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 21.7110896,
+        "maxLon": -157.6492507,
+        "minLat": 21.2551236,
+        "minLon": -158.27963
+      },
+      "id": "honolulu",
+      "manifestVersion": 4,
+      "name": "Honolulu",
+      "region": "Hawaii, USA",
       "tileZoom": 14
     },
     {
@@ -171,6 +379,19 @@
     },
     {
       "bbox": {
+        "maxLat": 33.7550338,
+        "maxLon": -117.6901844,
+        "minLat": 33.5988453,
+        "minLon": -117.868159
+      },
+      "id": "irvine",
+      "manifestVersion": 4,
+      "name": "Irvine",
+      "region": "California, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
         "maxLat": 30.575767,
         "maxLon": -81.3929182,
         "minLat": 30.1018377,
@@ -184,6 +405,19 @@
     },
     {
       "bbox": {
+        "maxLat": 39.36881,
+        "maxLon": -94.3620412,
+        "minLat": 38.8166585,
+        "minLon": -94.7616574
+      },
+      "id": "kansas-city",
+      "manifestVersion": 4,
+      "name": "Kansas City",
+      "region": "Missouri, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
         "maxLat": 36.4338145,
         "maxLon": -115.0620121,
         "minLat": 36.1260498,
@@ -193,6 +427,45 @@
       "manifestVersion": 4,
       "name": "Las Vegas",
       "region": "Nevada, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 38.2573122,
+        "maxLon": -84.2686531,
+        "minLat": 37.84765,
+        "minLon": -84.669017
+      },
+      "id": "lexington",
+      "manifestVersion": 4,
+      "name": "Lexington",
+      "region": "Kentucky, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 40.9510485,
+        "maxLon": -96.5676681,
+        "minLat": 40.6879482,
+        "minLon": -96.8349002
+      },
+      "id": "lincoln",
+      "manifestVersion": 4,
+      "name": "Lincoln",
+      "region": "Nebraska, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 33.8876832,
+        "maxLon": -118.0629364,
+        "minLat": 33.7387464,
+        "minLon": -118.2427254
+      },
+      "id": "long-beach",
+      "manifestVersion": 4,
+      "name": "Long Beach",
+      "region": "California, USA",
       "tileZoom": 14
     },
     {
@@ -236,6 +509,58 @@
     },
     {
       "bbox": {
+        "maxLat": 33.5120498,
+        "maxLon": -111.5763841,
+        "minLat": 33.2774652,
+        "minLon": -111.9114198
+      },
+      "id": "mesa",
+      "manifestVersion": 4,
+      "name": "Mesa",
+      "region": "Arizona, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 25.8563087,
+        "maxLon": -80.1437166,
+        "minLat": 25.7083966,
+        "minLon": -80.3198506
+      },
+      "id": "miami",
+      "manifestVersion": 4,
+      "name": "Miami",
+      "region": "Florida, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 43.2069566,
+        "maxLon": -87.8652863,
+        "minLat": 42.9201496,
+        "minLon": -88.0696993
+      },
+      "id": "milwaukee",
+      "manifestVersion": 4,
+      "name": "Milwaukee",
+      "region": "Wisconsin, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 45.053043,
+        "maxLon": -93.1927971,
+        "minLat": 44.871487,
+        "minLon": -93.3415666
+      },
+      "id": "minneapolis",
+      "manifestVersion": 4,
+      "name": "Minneapolis",
+      "region": "Minnesota, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
         "maxLat": 36.4044468,
         "maxLon": -86.469287,
         "minLat": 35.9727889,
@@ -245,6 +570,32 @@
       "manifestVersion": 4,
       "name": "Nashville",
       "region": "Tennessee, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 30.1764524,
+        "maxLon": -89.7283859,
+        "minLat": 29.8883522,
+        "minLon": -90.1379895
+      },
+      "id": "new-orleans",
+      "manifestVersion": 4,
+      "name": "New Orleans",
+      "region": "Louisiana, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 40.7888896,
+        "maxLon": -74.1172237,
+        "minLat": 40.685631,
+        "minLon": -74.2511534
+      },
+      "id": "newark",
+      "manifestVersion": 4,
+      "name": "Newark",
+      "region": "New Jersey, USA",
       "tileZoom": 14
     },
     {
@@ -262,6 +613,19 @@
     },
     {
       "bbox": {
+        "maxLat": 37.8853601,
+        "maxLon": -122.1025501,
+        "minLat": 37.7113878,
+        "minLon": -122.3634526
+      },
+      "id": "oakland",
+      "manifestVersion": 4,
+      "name": "Oakland",
+      "region": "California, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
         "maxLat": 35.681536,
         "maxLon": -97.1181291,
         "minLat": 35.262605,
@@ -271,6 +635,32 @@
       "manifestVersion": 4,
       "name": "Oklahoma City",
       "region": "Oklahoma, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 41.3931699,
+        "maxLon": -95.8826467,
+        "minLat": 41.1762398,
+        "minLon": -96.2762609
+      },
+      "id": "omaha",
+      "manifestVersion": 4,
+      "name": "Omaha",
+      "region": "Nebraska, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 28.6114133,
+        "maxLon": -81.140794,
+        "minLat": 28.3481428,
+        "minLon": -81.5086053
+      },
+      "id": "orlando",
+      "manifestVersion": 4,
+      "name": "Orlando",
+      "region": "Florida, USA",
       "tileZoom": 14
     },
     {
@@ -301,6 +691,32 @@
     },
     {
       "bbox": {
+        "maxLat": 40.5057534,
+        "maxLon": -79.8663395,
+        "minLat": 40.3604966,
+        "minLon": -80.089284
+      },
+      "id": "pittsburgh",
+      "manifestVersion": 4,
+      "name": "Pittsburgh",
+      "region": "Pennsylvania, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 33.1256069,
+        "maxLon": -96.612828,
+        "minLat": 32.9990615,
+        "minLon": -96.8636336
+      },
+      "id": "plano",
+      "manifestVersion": 4,
+      "name": "Plano",
+      "region": "Texas, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
         "maxLat": 45.6506284,
         "maxLon": -122.4599005,
         "minLat": 45.4323336,
@@ -310,6 +726,58 @@
       "manifestVersion": 4,
       "name": "Portland",
       "region": "Oregon, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 35.9709934,
+        "maxLon": -78.4948229,
+        "minLat": 35.7077531,
+        "minLon": -78.8190698
+      },
+      "id": "raleigh",
+      "manifestVersion": 4,
+      "name": "Raleigh",
+      "region": "North Carolina, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 34.0202753,
+        "maxLon": -117.2787903,
+        "minLat": 33.8655623,
+        "minLon": -117.5414726
+      },
+      "id": "riverside",
+      "manifestVersion": 4,
+      "name": "Riverside",
+      "region": "California, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 38.6855235,
+        "maxLon": -121.3627082,
+        "minLat": 38.4356301,
+        "minLon": -121.576601
+      },
+      "id": "sacramento",
+      "manifestVersion": 4,
+      "name": "Sacramento",
+      "region": "California, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 44.9960296,
+        "maxLon": -93.0001382,
+        "minLat": 44.8879402,
+        "minLon": -93.2112711
+      },
+      "id": "saint-paul",
+      "manifestVersion": 4,
+      "name": "Saint Paul",
+      "region": "Minnesota, USA",
       "tileZoom": 14
     },
     {
@@ -366,6 +834,19 @@
     },
     {
       "bbox": {
+        "maxLat": 33.7804726,
+        "maxLon": -117.8304166,
+        "minLat": 33.6912297,
+        "minLon": -117.9460985
+      },
+      "id": "santa-ana",
+      "manifestVersion": 4,
+      "name": "Santa Ana",
+      "region": "California, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
         "maxLat": 47.7377064,
         "maxLon": -122.2344317,
         "minLat": 47.4955471,
@@ -379,6 +860,97 @@
     },
     {
       "bbox": {
+        "maxLat": 38.7761252,
+        "maxLon": -90.1843308,
+        "minLat": 38.5218735,
+        "minLon": -90.3432016
+      },
+      "id": "st-louis",
+      "manifestVersion": 4,
+      "name": "St. Louis",
+      "region": "Missouri, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 38.1127939,
+        "maxLon": -121.1843783,
+        "minLat": 37.8816132,
+        "minLon": -121.4186304
+      },
+      "id": "stockton",
+      "manifestVersion": 4,
+      "name": "Stockton",
+      "region": "California, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 28.1714555,
+        "maxLon": -82.2599242,
+        "minLat": 27.8215868,
+        "minLon": -82.677678
+      },
+      "id": "tampa",
+      "manifestVersion": 4,
+      "name": "Tampa",
+      "region": "Florida, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 41.7504967,
+        "maxLon": -83.4557208,
+        "minLat": 41.5818161,
+        "minLon": -83.694162
+      },
+      "id": "toledo",
+      "manifestVersion": 4,
+      "name": "Toledo",
+      "region": "Ohio, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 32.3207673,
+        "maxLon": -110.7043641,
+        "minLat": 31.9738506,
+        "minLon": -111.059495
+      },
+      "id": "tucson",
+      "manifestVersion": 4,
+      "name": "Tucson",
+      "region": "Arizona, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 36.3366908,
+        "maxLon": -95.6495775,
+        "minLat": 35.9773051,
+        "minLon": -96.0834424
+      },
+      "id": "tulsa",
+      "manifestVersion": 4,
+      "name": "Tulsa",
+      "region": "Oklahoma, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 36.9297877,
+        "maxLon": -75.867827,
+        "minLat": 36.535328,
+        "minLon": -76.228337
+      },
+      "id": "virginia-beach",
+      "manifestVersion": 4,
+      "name": "Virginia Beach",
+      "region": "Virginia, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
         "maxLat": 38.9960558,
         "maxLon": -76.907522,
         "minLat": 38.7930052,
@@ -388,6 +960,19 @@
       "manifestVersion": 4,
       "name": "Washington",
       "region": "District of Columbia, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 37.892314,
+        "maxLon": -97.1529307,
+        "minLat": 37.4744483,
+        "minLon": -97.7371982
+      },
+      "id": "wichita",
+      "manifestVersion": 4,
+      "name": "Wichita",
+      "region": "Kansas, USA",
       "tileZoom": 14
     }
   ]
