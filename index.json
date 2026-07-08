@@ -1,0 +1,17 @@
+{
+  "regions": [
+    {
+      "bbox": {
+        "maxLat": 40.9151041,
+        "maxLon": -73.6990691,
+        "minLat": 40.4962369,
+        "minLon": -74.2552702
+      },
+      "id": "nyc",
+      "manifestVersion": 3,
+      "name": "New York",
+      "region": "New York, USA",
+      "tileZoom": 14
+    }
+  ]
+}
