@@ -2,15 +2,392 @@
   "regions": [
     {
       "bbox": {
+        "maxLat": 30.5156482,
+        "maxLon": -97.5695295,
+        "minLat": 30.0972477,
+        "minLon": -97.938538
+      },
+      "id": "austin",
+      "manifestVersion": 4,
+      "name": "Austin",
+      "region": "Texas, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 39.39858,
+        "maxLon": -76.5080845,
+        "minLat": 39.213176,
+        "minLon": -76.7442781
+      },
+      "id": "baltimore",
+      "manifestVersion": 4,
+      "name": "Baltimore",
+      "region": "Maryland, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 42.3982227,
+        "maxLon": -70.8692916,
+        "minLat": 42.2305017,
+        "minLon": -71.1900303
+      },
+      "id": "boston",
+      "manifestVersion": 4,
+      "name": "Boston",
+      "region": "Massachusetts, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 35.4002505,
+        "maxLon": -80.633875,
+        "minLat": 35.0123077,
+        "minLon": -81.0299549
+      },
+      "id": "charlotte",
+      "manifestVersion": 4,
+      "name": "Charlotte",
+      "region": "North Carolina, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 42.027161,
+        "maxLon": -87.5165446,
+        "minLat": 41.6403389,
+        "minLon": -87.9407983
+      },
+      "id": "chicago",
+      "manifestVersion": 4,
+      "name": "Chicago",
+      "region": "Illinois, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 40.157221,
+        "maxLon": -82.7712584,
+        "minLat": 39.8111571,
+        "minLon": -83.1834916
+      },
+      "id": "columbus",
+      "manifestVersion": 4,
+      "name": "Columbus",
+      "region": "Ohio, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 33.0166292,
+        "maxLon": -96.4610071,
+        "minLat": 32.618564,
+        "minLon": -96.9942694
+      },
+      "id": "dallas",
+      "manifestVersion": 4,
+      "name": "Dallas",
+      "region": "Texas, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 39.914236,
+        "maxLon": -104.5996486,
+        "minLat": 39.6132204,
+        "minLon": -105.1100018
+      },
+      "id": "denver",
+      "manifestVersion": 4,
+      "name": "Denver",
+      "region": "Colorado, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 42.4505262,
+        "maxLon": -82.910352,
+        "minLat": 42.254871,
+        "minLon": -83.2901119
+      },
+      "id": "detroit",
+      "manifestVersion": 4,
+      "name": "Detroit",
+      "region": "Michigan, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 32.0092616,
+        "maxLon": -106.1971514,
+        "minLat": 31.6391159,
+        "minLon": -106.6413854
+      },
+      "id": "el-paso",
+      "manifestVersion": 4,
+      "name": "El Paso",
+      "region": "Texas, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 33.0485788,
+        "maxLon": -97.0320535,
+        "minLat": 32.5464911,
+        "minLon": -97.5983645
+      },
+      "id": "fort-worth",
+      "manifestVersion": 4,
+      "name": "Fort Worth",
+      "region": "Texas, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 30.1311243,
+        "maxLon": -95.020591,
+        "minLat": 29.535302,
+        "minLon": -95.9096279
+      },
+      "id": "houston",
+      "manifestVersion": 4,
+      "name": "Houston",
+      "region": "Texas, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 39.9318955,
+        "maxLon": -85.919057,
+        "minLat": 39.597741,
+        "minLon": -86.3506562
+      },
+      "id": "indianapolis",
+      "manifestVersion": 4,
+      "name": "Indianapolis",
+      "region": "Indiana, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 30.575767,
+        "maxLon": -81.3929182,
+        "minLat": 30.1018377,
+        "minLon": -82.0495774
+      },
+      "id": "jacksonville",
+      "manifestVersion": 4,
+      "name": "Jacksonville",
+      "region": "Florida, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 36.4338145,
+        "maxLon": -115.0620121,
+        "minLat": 36.1260498,
+        "minLon": -115.4059346
+      },
+      "id": "las-vegas",
+      "manifestVersion": 4,
+      "name": "Las Vegas",
+      "region": "Nevada, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 34.3377317,
+        "maxLon": -118.1551906,
+        "minLat": 33.7049668,
+        "minLon": -118.6743085
+      },
+      "id": "los-angeles",
+      "manifestVersion": 4,
+      "name": "Los Angeles",
+      "region": "California, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 38.3751611,
+        "maxLon": -85.4036806,
+        "minLat": 38.0004645,
+        "minLon": -85.9368881
+      },
+      "id": "louisville",
+      "manifestVersion": 4,
+      "name": "Louisville",
+      "region": "Kentucky, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 35.2650266,
+        "maxLon": -89.637081,
+        "minLat": 34.918617,
+        "minLon": -90.240978
+      },
+      "id": "memphis",
+      "manifestVersion": 4,
+      "name": "Memphis",
+      "region": "Tennessee, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 36.4044468,
+        "maxLon": -86.469287,
+        "minLat": 35.9727889,
+        "minLon": -87.0622596
+      },
+      "id": "nashville",
+      "manifestVersion": 4,
+      "name": "Nashville",
+      "region": "Tennessee, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
         "maxLat": 40.9151041,
         "maxLon": -73.6990691,
         "minLat": 40.4962369,
         "minLon": -74.2552702
       },
       "id": "nyc",
-      "manifestVersion": 3,
+      "manifestVersion": 4,
       "name": "New York",
       "region": "New York, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 35.681536,
+        "maxLon": -97.1181291,
+        "minLat": 35.262605,
+        "minLon": -97.8487132
+      },
+      "id": "oklahoma-city",
+      "manifestVersion": 4,
+      "name": "Oklahoma City",
+      "region": "Oklahoma, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 40.137693,
+        "maxLon": -74.9575147,
+        "minLat": 39.8596932,
+        "minLon": -75.2782675
+      },
+      "id": "philadelphia",
+      "manifestVersion": 4,
+      "name": "Philadelphia",
+      "region": "Pennsylvania, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 33.918555,
+        "maxLon": -111.925321,
+        "minLat": 33.2904822,
+        "minLon": -112.3260619
+      },
+      "id": "phoenix",
+      "manifestVersion": 4,
+      "name": "Phoenix",
+      "region": "Arizona, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 45.6506284,
+        "maxLon": -122.4599005,
+        "minLat": 45.4323336,
+        "minLon": -122.8467691
+      },
+      "id": "portland-or",
+      "manifestVersion": 4,
+      "name": "Portland",
+      "region": "Oregon, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 29.7152623,
+        "maxLon": -98.2232603,
+        "minLat": 29.196598,
+        "minLon": -98.805886
+      },
+      "id": "san-antonio",
+      "manifestVersion": 4,
+      "name": "San Antonio",
+      "region": "Texas, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 33.114475,
+        "maxLon": -116.9029561,
+        "minLat": 32.5364952,
+        "minLon": -117.2816888
+      },
+      "id": "san-diego",
+      "manifestVersion": 4,
+      "name": "San Diego",
+      "region": "California, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 37.8337125,
+        "maxLon": -122.3276982,
+        "minLat": 37.7049903,
+        "minLon": -122.514537
+      },
+      "id": "san-francisco",
+      "manifestVersion": 4,
+      "name": "San Francisco",
+      "region": "California, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 37.4631262,
+        "maxLon": -121.6305681,
+        "minLat": 37.1436761,
+        "minLon": -122.0351741
+      },
+      "id": "san-jose",
+      "manifestVersion": 4,
+      "name": "San Jose",
+      "region": "California, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 47.7377064,
+        "maxLon": -122.2344317,
+        "minLat": 47.4955471,
+        "minLon": -122.4358798
+      },
+      "id": "seattle",
+      "manifestVersion": 4,
+      "name": "Seattle",
+      "region": "Washington, USA",
+      "tileZoom": 14
+    },
+    {
+      "bbox": {
+        "maxLat": 38.9960558,
+        "maxLon": -76.907522,
+        "minLat": 38.7930052,
+        "minLon": -77.1803644
+      },
+      "id": "washington-dc",
+      "manifestVersion": 4,
+      "name": "Washington",
+      "region": "District of Columbia, USA",
       "tileZoom": 14
     }
   ]
