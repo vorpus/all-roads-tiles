@@ -106,7 +106,7 @@
     },
     {
       "bbox": {
-        "maxLat": 42.3982227,
+        "maxLat": 42.3978969,
         "maxLon": -70.8692916,
         "minLat": 42.2305017,
         "minLon": -71.1900303
@@ -198,7 +198,7 @@
     {
       "bbox": {
         "maxLat": 27.8950743,
-        "maxLon": -97.1206668,
+        "maxLon": -97.1191684,
         "minLat": 27.562817,
         "minLon": -97.7627759
       },
@@ -225,7 +225,7 @@
       "bbox": {
         "maxLat": 39.914236,
         "maxLon": -104.5996486,
-        "minLat": 39.6132204,
+        "minLat": 39.6129687,
         "minLon": -105.1100018
       },
       "id": "denver",
@@ -538,7 +538,7 @@
         "maxLat": 45.053043,
         "maxLon": -93.1927971,
         "minLat": 44.871487,
-        "minLon": -93.3415666
+        "minLon": -93.339447
       },
       "id": "minneapolis",
       "manifestVersion": 4,
@@ -758,7 +758,7 @@
       "bbox": {
         "maxLat": 44.9960296,
         "maxLon": -93.0001382,
-        "minLat": 44.8879402,
+        "minLat": 44.8879166,
         "minLon": -93.2112711
       },
       "id": "saint-paul",
@@ -798,7 +798,7 @@
         "maxLat": 37.8337125,
         "maxLon": -122.3276982,
         "minLat": 37.7049903,
-        "minLon": -122.514537
+        "minLon": -122.5145152
       },
       "id": "san-francisco",
       "manifestVersion": 4,
@@ -821,7 +821,7 @@
     },
     {
       "bbox": {
-        "maxLat": 33.7804726,
+        "maxLat": 33.7804725,
         "maxLon": -117.8304166,
         "minLat": 33.6912297,
         "minLon": -117.9460985
