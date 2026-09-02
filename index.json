@@ -30,7 +30,7 @@
       "bbox": {
         "maxLat": 32.8171124,
         "maxLon": -97.035191,
-        "minLat": 32.5897618,
+        "minLat": 32.5894992,
         "minLon": -97.2326947
       },
       "id": "arlington-tx",
@@ -328,7 +328,7 @@
     {
       "bbox": {
         "maxLat": 21.7110896,
-        "maxLon": -157.6492507,
+        "maxLon": -157.649685,
         "minLat": 21.2551236,
         "minLon": -158.27963
       },
@@ -537,7 +537,7 @@
       "bbox": {
         "maxLat": 45.053043,
         "maxLon": -93.1927971,
-        "minLat": 44.871487,
+        "minLat": 44.8834979,
         "minLon": -93.339447
       },
       "id": "minneapolis",
